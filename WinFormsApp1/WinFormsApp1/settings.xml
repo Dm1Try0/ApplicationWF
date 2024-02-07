@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FirstStart>0</FirstStart>
+  <ComputerName>DESKTOP-SNHCD6K</ComputerName>
+  <ShopBaf>false</ShopBaf>
+  <Baf20>false</Baf20>
+  <Baf30>false</Baf30>
+  <Baf60>false</Baf60>
+	<private_key>83227</private_key>
+</SettingsData>

@@ -1,0 +1,8 @@
+C:\Users\XAN\Desktop\R2Sound1file\WinFormsApp1.pdb
+C:\Users\XAN\Desktop\R2Sound1file\Resources\photo_2024-01-06_00-46-59.jpg
+C:\Users\XAN\Desktop\R2Sound1file\Sound\10m.wav
+C:\Users\XAN\Desktop\R2Sound1file\Sound\20m.wav
+C:\Users\XAN\Desktop\R2Sound1file\Sound\30m.wav
+C:\Users\XAN\Desktop\R2Sound1file\Sound\5m.wav
+C:\Users\XAN\Desktop\R2Sound1file\Sound\60m.wav
+C:\Users\XAN\Desktop\R2Sound1file\WinFormsApp1.exe

@@ -1,0 +1,144 @@
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Sound\10m.wav
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Sound\20m.wav
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Sound\30m.wav
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Sound\5m.wav
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Sound\60m.wav
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Npgsql.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Settings_Form.resources
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.WinFormsApp1.resources
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Resources\photo_2024-01-06_00-46-59.jpg
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Humanizer.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Diagnostics.EventLog.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\My bots\winformtest\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.WinFormsApp1.resources
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Settings_Form.resources
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Resources\photo_2024-01-06_00-46-59.jpg
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Sound\10m.wav
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Sound\20m.wav
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Sound\30m.wav
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Sound\5m.wav
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Sound\60m.wav
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Humanizer.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Npgsql.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Diagnostics.EventLog.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\My bots\WPFfor git\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
